@@ -61,7 +61,7 @@
 		D979CDEC177B08E400F5B0FF /* HTTPRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = D979CDB6177B08E400F5B0FF /* HTTPRequest.m */; };
 		D979CDED177B08E400F5B0FF /* NSDictionary+JSONDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = D979CDB7177B08E400F5B0FF /* NSDictionary+JSONDecoder.h */; };
 		D979CDEE177B08E400F5B0FF /* NSDictionary+JSONDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = D979CDB8177B08E400F5B0FF /* NSDictionary+JSONDecoder.m */; };
-		D979CDF3177B099A00F5B0FF /* CSPair.h in Headers */ = {isa = PBXBuildFile; fileRef = D979CDF1177B099A00F5B0FF /* CSPair.h */; };
+		D979CDF3177B099A00F5B0FF /* CSPair.h in Headers */ = {isa = PBXBuildFile; fileRef = D979CDF1177B099A00F5B0FF /* CSPair.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D979CDF4177B099A00F5B0FF /* CSPair.m in Sources */ = {isa = PBXBuildFile; fileRef = D979CDF2177B099A00F5B0FF /* CSPair.m */; };
 		D979CDF6177B0AC900F5B0FF /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D979CDF5177B0AC900F5B0FF /* SystemConfiguration.framework */; };
 		D979CDF8177B119B00F5B0FF /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = D979CDF7177B119B00F5B0FF /* README.txt */; };
