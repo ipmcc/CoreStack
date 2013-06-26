@@ -33,6 +33,7 @@
 #import "CSSiteStatistics.h"
 #import "CSQuestion.h"
 #import "HTTPRequest.h"
+#import "NSDictionary+JSONDecoder.h"
 
 @implementation CSSite
 
